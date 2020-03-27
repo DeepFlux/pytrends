@@ -1,5 +1,6 @@
 # pytrends
 
+
 ## Introduction
 
 Unofficial API for Google Trends
